@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Serdar Kayacı — Software Developer and Technology Consultant</title>
+  <desc id="desc">SancakSoft. JavaScript and TypeScript. Web, mobile, AI and automation, blockchain and Web3.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d31" />
+      <stop offset="1" stop-color="#172e42" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="14" fill="url(#bg)" />
+  <path d="M924 0v300M1016 0v300M1108 0v300M832 66h368M832 150h368M832 234h368" fill="none" stroke="#315269" stroke-opacity=".36" />
+  <path d="m969 100-49 50 49 50m102-100 49 50-49 50m-52-113-23 126" fill="none" stroke="#56d2bd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" opacity=".8" />
+  <rect x="48" y="44" width="4" height="34" rx="2" fill="#56d2bd" />
+  <g font-family="Segoe UI,Arial,sans-serif">
+    <text x="68" y="67" fill="#9ed4d0" font-size="17" letter-spacing="4">SANCAKSOFT</text>
+    <text x="48" y="137" fill="#f5f8fc" font-size="49" font-weight="650">Serdar Kayacı</text>
+    <text x="50" y="179" fill="#c9d6e2" font-size="23">Software Developer &amp; Technology Consultant</text>
+    <text x="50" y="231" fill="#70daca" font-size="18" font-weight="600">JavaScript / TypeScript</text>
+    <text x="50" y="263" fill="#a3b7c9" font-size="17">Web · Mobile · AI &amp; Automation · Blockchain / Web3</text>
+  </g>
+</svg>
