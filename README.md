@@ -36,6 +36,12 @@ I care about clear requirements, maintainable systems, security, and the total c
 
 These repositories include prototypes and work in progress. Each project's README describes its scope and setup; UlakPay uses mock deposits and transfers rather than real payment integrations.
 
+## Engineering approach
+
+- **Understand the workflow.** Make the users, constraints and expected result clear before choosing tools.
+- **Keep the architecture practical.** Compare an existing solution, an adaptation and custom development by maintenance effort and total cost.
+- **Make failure visible.** Treat validation, access control, retries and useful logs as part of the design.
+
 ## Work with me
 
 For software development, integrations or a technical review, visit [sancaksoft.com](https://sancaksoft.com) or connect on [LinkedIn](https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/).
