@@ -36,6 +36,12 @@ Açık gereksinimleri, bakımı kolay sistemleri, güvenliği ve yazılımın ge
 
 Bu depolar prototipler ve geliştirme aşamasındaki çalışmalar içerir. Kapsam ve kurulum bilgileri her projenin README dosyasındadır. UlakPay'deki para yatırma ve transfer akışları simülasyondur; gerçek ödeme entegrasyonu içermez.
 
+## Geliştirme yaklaşımım
+
+- **Önce iş akışı.** Araç seçmeden önce kullanıcıyı, kısıtları ve beklenen sonucu netleştirmek.
+- **İhtiyaca uygun mimari.** Hazır çözümü, uyarlamayı ve özel geliştirmeyi bakım yükü ve toplam maliyetle karşılaştırmak.
+- **Hataları görünür kılmak.** Doğrulamayı, erişim kontrolünü, yeniden denemeleri ve işe yarayan günlükleri tasarımın parçası olarak ele almak.
+
 ## İletişim
 
 Yazılım geliştirme, entegrasyon veya teknik inceleme için [sancaksoft.com](https://sancaksoft.com) üzerinden ulaşabilir ya da [LinkedIn](https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/) üzerinden bağlantı kurabilirsiniz.
