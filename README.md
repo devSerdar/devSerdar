@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://sancaksoft.com">SancakSoft</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/serdarkayacı/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="README.tr.md">Türkçe</a>
 </p>
 
@@ -44,4 +44,4 @@ These repositories include prototypes and work in progress. Each project's READM
 
 ## Work with me
 
-For software development, integrations or a technical review, visit [sancaksoft.com](https://sancaksoft.com) or connect on [LinkedIn](https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/).
+For software development, integrations or a technical review, visit [sancaksoft.com](https://sancaksoft.com) or connect on [LinkedIn](https://www.linkedin.com/in/serdarkayacı/).
