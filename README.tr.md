@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://sancaksoft.com">SancakSoft</a> &nbsp; · &nbsp;
-  <a href="https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/">LinkedIn</a> &nbsp; · &nbsp;
+  <a href="https://www.linkedin.com/in/serdarkayacı/">LinkedIn</a> &nbsp; · &nbsp;
   <a href="README.md">English</a>
 </p>
 
@@ -44,4 +44,4 @@ Bu depolar prototipler ve geliştirme aşamasındaki çalışmalar içerir. Kaps
 
 ## İletişim
 
-Yazılım geliştirme, entegrasyon veya teknik inceleme için [sancaksoft.com](https://sancaksoft.com) üzerinden ulaşabilir ya da [LinkedIn](https://www.linkedin.com/in/serdar-kayac%C4%B1-129107167/) üzerinden bağlantı kurabilirsiniz.
+Yazılım geliştirme, entegrasyon veya teknik inceleme için [sancaksoft.com](https://sancaksoft.com) üzerinden ulaşabilir ya da [LinkedIn](https://www.linkedin.com/in/serdarkayacı/) üzerinden bağlantı kurabilirsiniz.
